@@ -6,3 +6,4 @@ Requires: node.js, discord.js, npm i guess cause you need node and discord.js
 Bot requires: Admin (ban/kick prems, read messages perms)
 
 
+Note: It is really dumb
